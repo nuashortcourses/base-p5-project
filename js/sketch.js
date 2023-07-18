@@ -5,7 +5,7 @@ function setup() {
   noStroke();
 }
 function draw() {
-  const CELLSIZE = 20;
+  const CELLSIZE = 10;
   let x = 0;
   let y = 0;
   while (y < height) {
